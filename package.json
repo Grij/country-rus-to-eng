@@ -1,0 +1,17 @@
+{
+  "author": "Andy Gans <8704421@gmail.com>",
+  "name": "country-RUS-to_ENG",
+  "description": "Minor utility library (browser-side and server-side) Translate countries RUS to ENG",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/podviaznikov/country.js.git"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "~v0.4.9"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
