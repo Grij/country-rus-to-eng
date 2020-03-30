@@ -11,4 +11,5 @@ Library can be used both in browser or on server as NPM module.
 How to use:
 
 `var country = require('country');
+
 console.log(country['Украина']);//should print Ukraine`
