@@ -1,17 +1,30 @@
 {
   "author": "Andy Gans <8704421@gmail.com>",
-  "name": "country-RUS-to_ENG",
+  "name": "country-rus-to_eng",
   "description": "Minor utility library (browser-side and server-side) Translate countries RUS to ENG",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/podviaznikov/country.js.git"
+    "url": "git://github.com/Grij/country-rus-to-eng.git"
   },
   "main": "./index.js",
   "engines": {
-    "node": "~v0.4.9"
+    "node": "~v0.6.8"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/Grij/country-rus-to-eng/issues"
+  },
+  "homepage": "https://github.com/Grij/country-rus-to-eng#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "country"
+  ],
+  "license": "ISC"
 }
-
